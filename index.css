@@ -1,0 +1,55 @@
+body{
+    word-spacing: 2px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 50px;
+}
+
+.header a{
+    color: rgb(49, 177, 177);
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header a:hover{
+    font-size: larger;
+}
+
+.introduction p{
+
+}
+
+
+
+.duration{
+    
+}
+
+span{
+    float: right;
+}
+
+
+
+.experiences{
+}
+
+.experience{    
+    border: 2px solid rebeccapurple;
+}
+
+.experience p{
+    font-style: italic;
+}
+
+h1{
+    text-align: center;
+    background: linear-gradient(to right, rgba(52, 235, 164), rgba(52, 235, 164, 0));
+    padding: 10px;
+}
